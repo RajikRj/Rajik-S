@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-04T18:47:39 IST" name="Default suite" finished-at="2022-09-04T18:47:48 IST" duration-ms="8733">
+    <groups>
+    </groups>
+    <test started-at="2022-09-04T18:47:39 IST" name="Default test" finished-at="2022-09-04T18:47:48 IST" duration-ms="8733">
+      <class name="Test.Third">
+        <test-method is-config="true" signature="Before()[pri:0, instance:Test.Third@4229bb3f]" started-at="2022-09-04T18:47:39 IST" name="Before" finished-at="2022-09-04T18:47:45 IST" duration-ms="6076" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before -->
+        <test-method signature="Leaf()[pri:0, instance:Test.Third@4229bb3f]" started-at="2022-09-04T18:47:45 IST" name="Leaf" finished-at="2022-09-04T18:47:48 IST" duration-ms="2580" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Leaf -->
+      </class> <!-- Test.Third -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
